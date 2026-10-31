@@ -5,7 +5,7 @@
 ## about
 - 15 y/o CS student
 - Learning C++
-- Familiar with Luau and C#
+- Familiar with Luau, C# and some python.
 - Exploring cybersecurity and reverse engineering
 - Participating in CyberPatriot
 
