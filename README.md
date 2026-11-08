@@ -8,7 +8,7 @@
 - C++
 - JavaScript
 - Python
-
+- Lua(Luau)
 ## interests
 - Reverse engineering
 - Cybersecurity
