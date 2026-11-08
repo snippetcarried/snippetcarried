@@ -1,13 +1,13 @@
-# hey, i'm meko
-
-> interested in programming, cybersecurity, and understanding how software works.
 
 ## about
 - 15 y/o CS student
-- Learning C++
-- Familiar with Luau, C# and some python.
-- Exploring cybersecurity and reverse engineering
 - Participating in CyberPatriot
+- Exploring cybersecurity and reverse engineering
+
+## languages
+- C++
+- JavaScript
+- Python
 
 ## interests
 - Reverse engineering
@@ -17,10 +17,9 @@
 - Computer architecture
 
 ## currently working on
-- Improving my C++ fundamentals
+- Building projects and improving my problem-solving skills
 - Learning how software works internally
 - Exploring Linux and cybersecurity
-- Building projects and improving my problem-solving skills
 
 ## goals
 Develop a strong foundation in computer science, programming, and cybersecurity.
