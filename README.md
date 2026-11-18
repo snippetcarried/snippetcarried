@@ -4,7 +4,7 @@
 - Exploring cybersecurity and reverse engineering
 
 ## languages
-- C++ (Main Language right now)
+- C++ (Main Language right now) (C++20)
 - JavaScript
 - Python
 - Lua(Luau)
