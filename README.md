@@ -1,20 +1,21 @@
-
 ## about
 - 15 y/o CS student
 - Participating in CyberPatriot
 - Exploring cybersecurity and reverse engineering
 
 ## languages
-- C++
+- C++ (Main Language right now)
 - JavaScript
 - Python
 - Lua(Luau)
+
 ## interests
 - Reverse engineering
 - Cybersecurity
 - Low-level programming
 - Operating systems
 - Computer architecture
+- Competitive programming
 
 ## currently working on
 - Building projects and improving my problem-solving skills
@@ -22,8 +23,6 @@
 - Exploring Linux and cybersecurity
 
 ## goals
-Develop a strong foundation in computer science, programming, and cybersecurity.
+Develop a strong foundation in computer science, programming, cybersecurity, and competitive programming.
 
 ---
-
-*My Roblox development portfolio is linked on my profile.*
